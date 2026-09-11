@@ -154,6 +154,7 @@ House_Price_Predictor/
 ├── LICENSE
 └── README.md
 
+```
 ---
 
 ## 🔄 Workflow
