@@ -181,14 +181,4 @@ Real-Time Prediction
 
 ## 📄 License
 
-
-This version is much closer to the level of the project itself.
-
-One thing I particularly recommend keeping is the **Limitations** section. It makes the project look more professional, not weaker. It shows that you understand what an R² of 0.859 and an RMSE of $52,800 actually mean and that you are not presenting an ML demo as a real estate valuation system.
-
-Also, your new architecture graphic and application screenshot now have a clear purpose instead of just being decorative:
-
-**architecture visual → engineering evidence**  
-**application screenshot → deployment evidence**
-
-So yes, I would revise the text before calling the House Price repository finished.
+MIT license
