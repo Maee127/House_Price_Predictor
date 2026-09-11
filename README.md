@@ -159,6 +159,8 @@ House_Price_Predictor/
 
 ## 🔄 Workflow
 
+
+```text
 California Housing Data
         ↓
 Data Cleaning & Preparation
@@ -176,7 +178,7 @@ Saved Model
 Streamlit Application
         ↓
 Real-Time Prediction
-
+```
 ---
 
 ## 📄 License
