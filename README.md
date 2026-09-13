@@ -40,7 +40,25 @@ The project explores how multiple regression algorithms perform on the Californi
 The final trained model is then exposed through a Streamlit application so users can interact with the model directly.
 
 ---
+## Project Value
 
+This project demonstrates the complete lifecycle of a machine-learning regression application rather than only model training.
+
+It shows how a predictive model can move through:
+
+- data preparation;
+- model comparison;
+- ensemble design;
+- evaluation;
+- saved-model inference;
+- interactive application development;
+- deployment.
+
+The practical value of the project is in connecting experimentation with a usable interface, allowing users to interact with the trained model and observe how input features affect predicted housing values.
+
+From a portfolio perspective, it demonstrates end-to-end ML workflow design, model evaluation, deployment, and communication of results.
+
+---
 ## 🧠 Model Architecture
 
 The final prediction system uses a stacking ensemble that combines:
